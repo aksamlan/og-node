@@ -1,4 +1,5 @@
 # 0G-node Guide
+![image](https://github.com/user-attachments/assets/90f95315-0aa8-4067-9cb9-5a66a7974de1)
 
 ## install dependencies
 ```console
